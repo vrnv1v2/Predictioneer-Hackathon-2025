@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-%23145A32.svg?style=flat)](https://xgboost.readthedocs.io/)
 
-An advanced epidemiological framework engineered by team *Atomic Algowizards* to track outbreak dynamics and forecast mortality counts and Case Fatality Ratios (CFR)[cite: 1131, 1139]. [cite_start]This production-grade architecture leverages geostatistical modeling and environmental constraints to map global transmission patterns[cite: 1149, 1150].
+An advanced epidemiological framework engineered by team *Atomic Algowizards* to track outbreak dynamics and forecast mortality counts and Case Fatality Ratios (CFR). This production-grade architecture leverages geostatistical modeling and environmental constraints to map global transmission patterns
 
 🏆 **Achievement:** Awarded **1st Place** among all competing teams for data-engineering precision and predictive accuracy.
 

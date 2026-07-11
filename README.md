@@ -13,9 +13,9 @@ An advanced epidemiological framework engineered by team *Atomic Algowizards* to
 ## ⚡ Technical Highlights & Execution
 
 **Geostatistical Imputation Pipeline:** Handled severe spatial data gaps by benchmarking Inverse Distance Weighting (IDW using Haversine formulas), Ball Tree neighbors, and Gaussian Kriging models
-**Advanced Feature Engineering:** Extracted multi-scale spatial dependencies including radius-based **Spatial Lag** variables, **DBSCAN Regional Clustering**, and high-density proximity matrices using **cKDTree Spatial Density**
+**Advanced Feature Engineering:** Extracted multi-scale spatial dependencies including radius-based **spatial lag** variables, **DBSCAN regional clustering**, and high-density proximity matrices using **cKDTree Spatial Density**
 **Biomedical Climatology Analytics:** Integrated global multi-year climate data to model the non-linear relationship between viral transmission efficiency and average surface temperatures.
-**Ensemble Architecture:** Built and validated multiple ML/DL frameworks, deploying a high-performance **Bagging XGBoost** ensemble model for death prediction ($\text{RMSE}: 32.23$) and a optimized **Gradient Boosting Regressor** for CFR mapping ($\text{RMSE}: 0.570$) Tested deep residual network baselines with skip connections for calibration
+**Ensemble Architecture:** Built and validated multiple ML/DL frameworks, deploying a high-performance **XGBoost** ensemble model for death prediction ($\text{RMSE}: 32.23$) and a optimized **Gradient Boosting Regressor** for CFR mapping ($\text{RMSE}: 0.570$) Tested deep residual network baselines with skip connections for calibration
 
 ---
 

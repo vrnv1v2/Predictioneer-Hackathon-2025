@@ -12,10 +12,10 @@ An advanced epidemiological framework engineered by team *Atomic Algowizards* to
 
 ## ⚡ Technical Highlights & Execution
 
-**Geostatistical Imputation Pipeline:** Handled severe spatial data gaps by benchmarking Inverse Distance Weighting (IDW using Haversine formulas), Ball Tree neighbors, and Gaussian Kriging models[cite: 1324, 1330, 1337, 1347].
-**Advanced Feature Engineering:** Extracted multi-scale spatial dependencies including radius-based **Spatial Lag** variables [cite: 1358][cite_start], **DBSCAN Regional Clustering** [cite: 1363][cite_start], and high-density proximity matrices using **cKDTree Spatial Density**[cite: 1370, 1371].
-**Biomedical Climatology Analytics:** Integrated global multi-year climate data to model the non-linear relationship between viral transmission efficiency and average surface temperatures[cite: 1350, 1352].
-**Ensemble Architecture:** Built and validated multiple ML/DL frameworks, deploying a high-performance **Bagging XGBoost** ensemble model for death prediction ($\text{RMSE}: 32.23$) and a optimized **Gradient Boosting Regressor** for CFR mapping ($\text{RMSE}: 0.570$)[cite: 1575, 1656, 1657]. [cite_start]Tested deep residual network baselines with skip connections for calibration[cite: 1533, 1534].
+**Geostatistical Imputation Pipeline:** Handled severe spatial data gaps by benchmarking Inverse Distance Weighting (IDW using Haversine formulas), Ball Tree neighbors, and Gaussian Kriging models
+**Advanced Feature Engineering:** Extracted multi-scale spatial dependencies including radius-based **Spatial Lag** variables, **DBSCAN Regional Clustering**, and high-density proximity matrices using **cKDTree Spatial Density**
+**Biomedical Climatology Analytics:** Integrated global multi-year climate data to model the non-linear relationship between viral transmission efficiency and average surface temperatures.
+**Ensemble Architecture:** Built and validated multiple ML/DL frameworks, deploying a high-performance **Bagging XGBoost** ensemble model for death prediction ($\text{RMSE}: 32.23$) and a optimized **Gradient Boosting Regressor** for CFR mapping ($\text{RMSE}: 0.570$) Tested deep residual network baselines with skip connections for calibration
 
 ---
 
